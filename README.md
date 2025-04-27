@@ -33,11 +33,11 @@ Our platform provides an intuitive interface for vendors to browse, select, and 
 ## Steps to Run/Execute the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Arka_Nikhil_Pabitra_CSE1_OBARLY.git
+   git clone https://github.com/Alka709/alka_santhosh_secB-Obarly
    ```
 2. **Navigate into the project directory:**
    ```bash
-   cd Arka_Nikhil_Pabitra_CSE1_OBARLY
+   cd https://github.com/Alka709/alka_santhosh_secB-Obarly
    ```
 3. **Install required Python packages:**
    ```bash
