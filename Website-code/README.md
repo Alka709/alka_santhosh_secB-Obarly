@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Obarly - E-commerce Website
 
 A Flask-based e-commerce website with MongoDB Atlas integration.
