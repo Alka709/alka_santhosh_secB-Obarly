@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # MongoDB setup
-mongodb_uri = os.getenv('MONGODB_URI', 'mongodb+srv://nik84810:Niku_2004@obarly.xwq8r3k.mongodb.net/')
+mongodb_uri = os.getenv('MONGODB_URI', 'mongodb+srv://obarly:<db_password>@obarly.xwq8r3k.mongodb.net/')
 database_name = os.getenv('DATABASE_NAME', 'Inventory')
 
 try:
